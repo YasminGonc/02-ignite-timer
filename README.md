@@ -8,12 +8,15 @@ O projeto desenvolvido é um timer de estudos no estilo pomodoro.
 
 - Construído com [Vite](https://vitejs.dev/);
 - Estilização com [Styled-components](https://styled-components.com/);
+- Construção de rotas com [React Router](https://reactrouter.com/en/main);
 
 ## Aprendizado
 
 A partir da construção do projeto foi possível entender a dinâmica da estilização in JS, definindo estilos globais, configuração de temas para aplicação, bem como configurar a tipagem desse tema. 
 <br>
-Na aplicação foi utilizado o [ESLint](https://eslint.org/) para definir os padrões de projeto, neste caso foi utilizado o padrão da própria Rocketseat. 
+Na aplicação foi utilizado o [ESLint](https://eslint.org/) para definir os padrões de projeto, neste caso foi utilizado o padrão da própria Rocketseat.
+<br>
+Foi introduzido o conceito de rotas no React, utilizando a biblioteca React Router
 
 ## Tela da aplicação
 
