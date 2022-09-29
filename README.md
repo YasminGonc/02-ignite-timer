@@ -4,11 +4,13 @@ Projeto desenvolvido durante o módulo 2 do [Ignite](https://lp.rocketseat.com.b
 <br>
 O projeto desenvolvido é um timer de estudos no estilo pomodoro.
 
-## Ferramentas de construção
+## Contrução
 
 - Construído com [Vite](https://vitejs.dev/);
 - Estilização com [Styled-components](https://styled-components.com/);
-- Construção de rotas com [React Router](https://reactrouter.com/en/main);
+- [React Router](https://reactrouter.com/en/main) para criação das rotas da aplicação;
+- [React Hook Form](https://react-hook-form.com/) para lidar com formulários;
+- [Zod](https://github.com/colinhacks/zod) para validação de formulários;
 
 ## Aprendizado
 
