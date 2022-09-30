@@ -11,6 +11,7 @@ O projeto desenvolvido é um timer de estudos no estilo pomodoro.
 - [React Router](https://reactrouter.com/en/main) para criação das rotas da aplicação;
 - [React Hook Form](https://react-hook-form.com/) para lidar com formulários;
 - [Zod](https://github.com/colinhacks/zod) para validação de formulários;
+- [Date fns]() para lidar com datas;
 
 ## Aprendizado
 
