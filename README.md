@@ -12,6 +12,7 @@ O projeto desenvolvido é um timer de estudos no estilo pomodoro.
 - [React Hook Form](https://react-hook-form.com/) para lidar com formulários;
 - [Zod](https://github.com/colinhacks/zod) para validação de formulários;
 - [Date fns]() para lidar com datas;
+- [Immer](https://github.com/immerjs/immer) para lidar com estados.
 
 ## Aprendizado
 
