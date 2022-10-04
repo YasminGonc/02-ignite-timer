@@ -12,7 +12,7 @@ Na aplicação foi utilizado o [ESLint](https://eslint.org/) para definir os pad
 <br>
 Além disso, foi apresentado o conceito de rotas no React com o uso da biblioteca React Router. O formulário, que contém os inputs e botão submit, foram tratados com a biblioteca React Hook Form e os campos validados com a biblioteca Zod integrada ao React Hook Form.
 <br>
-Novas funcionalidades do React foram apresentadas, sendo elas: Context e useReducer.
+Novas funcionalidades do React foram apresentadas, sendo elas: Context e useReducer. Ademais, os dados cadastrados na aplicação foram armazenados no localStorage para que persistam durante o uso. 
 
 ## Contrução
 
@@ -26,8 +26,8 @@ Novas funcionalidades do React foram apresentadas, sendo elas: Context e useRedu
 
 ## Deploy da aplicação
 
+[Ignite timer](https://02-ignite-timer-six.vercel.app/)
 <br>
-
 Caso prefira abrir a aplicação no localhost basta digitar o comando `npm run dev`
 
 ## Design da aplicação
